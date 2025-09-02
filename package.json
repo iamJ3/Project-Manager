@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "node index.js",
-    "start": "nodemon index.js"
+    "dev": "nodemon  src/index.js",
+    "start": "node src/index.js"
   },
   "keywords": [
     "backend",
@@ -16,5 +16,10 @@
   "license": "ISC",
   "devDependencies": {
     "prettier": "3.6.2"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
   }
 }
