@@ -1,0 +1,20 @@
+{
+  "name": "manager",
+  "version": "1.0.0",
+  "description": "project manger web applicaiton",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "backend",
+    "API"
+  ],
+  "author": "Jatin Sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
