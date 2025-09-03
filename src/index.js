@@ -10,6 +10,7 @@ dotenv.config({
 
 const port = process.env.PORT || 3000
 
+
 connectDB()
     .then(() => {
 
@@ -20,7 +21,7 @@ connectDB()
 
     })
     .catch((err) => {
-        console.log('❌MongoDB error', err)
+        console.log(' ❌MongoDb connection error', err)
         process.exit(1)
     }
-    )
+)
