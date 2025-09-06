@@ -66,7 +66,7 @@ Before running this project, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/iamJ3/Project-Manager
    cd Backend
    ```
 
@@ -353,8 +353,8 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Jatin Sharma**
-- GitHub: [@jatin-sharma](https://github.com/jatin-sharma)
-- Email: [your-email@example.com]
+- GitHub: [@iamj3](https://github.com/iamj3)
+- Email: [jatinsharma.techy@gmail.com]
 
 ## 🙏 Acknowledgments
 
